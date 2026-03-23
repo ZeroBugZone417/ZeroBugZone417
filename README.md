@@ -14,8 +14,7 @@
 
 ---
 
-## 🌟 Projects
-- [Portfolio Website](https://dineth-dev-portfolio.onrender.com/) – Modern, responsive, dark-themed portfolio  
+## 🌟 Projects 
 - **QuickBill POS** – Multi-shop point-of-sale system with online shop integration  
 - **AI Photo Tools** – Retouching & restoration using AI  
 - **WhatsApp Automation Bot** – Multi-number WhatsApp bot for business use
