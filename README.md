@@ -27,7 +27,7 @@
 - 📧 **Email:** [dineth.sudarshana@example.com](mailto:dineth.sudarshana@example.com)  
 - 🌐 **Portfolio:** [dineth-dev-portfolio.onrender.com](https://dineth-dev-portfolio.onrender.com/)  
 - 💼 **LinkedIn:** [dineth-sudarshana](https://www.linkedin.com/in/dineth-sudarshana)  
-- 💻 **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+- 💻 **GitHub:** [github.com/yourusername](https://github.com/ZeroBugZone417)
 
 ---
 
